@@ -23,6 +23,7 @@ Technologies I've been learning and using so far :
 - Backend : <br />
     [![Laravel](https://img.shields.io/badge/-Laravel-eee?style=flat-square&logo=laravel)](https://supunlakmal.github.io/)
     [![Codeigniter](https://img.shields.io/badge/-Codeigniter-eee?style=flat-square&logo=codeigniter)](https://supunlakmal.github.io/)
+    [![Symfony](https://img.shields.io/badge/-Symfony-eee?style=flat-square&logo=symfony&logoColor=black)](https://supunlakmal.github.io/)
     [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://supunlakmal.github.io/)
     [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=0273B7)](https://supunlakmal.github.io/)
     [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)](https://supunlakmal.github.io/)
