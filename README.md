@@ -1,6 +1,9 @@
 ### Hi guys 👋 I'm Supun Lakmal
 
-[![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supunlakmal)](https://github.com/supunlakmal/github-readme-stats)
+[![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supunlakmal)](https://supunlakmal.github.io/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supunlakmal&langs_count=8)](https://supunlakmal.github.io/)
+
 
 Technologies I've been learning and using so far :
 
