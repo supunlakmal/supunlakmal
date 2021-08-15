@@ -21,7 +21,8 @@ Technologies I've been learning and using so far :
     [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://supunlakmal.github.io/)
     [![Wordpress](http://img.shields.io/badge/-Wordpress-eee?style=flat-square&logo=wordpress&logoColor=21759B)](https://supunlakmal.github.io/)
 - Backend : <br />
-    [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)](https://supunlakmal.github.io/)
+    [![Laravel](https://img.shields.io/badge/-Laravel-eee?style=flat-square&logo=laravel)](https://supunlakmal.github.io/)
+    [![Codeigniter](https://img.shields.io/badge/-Codeigniter-eee?style=flat-square&logo=codeigniter)](https://supunlakmal.github.io/)
     [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://supunlakmal.github.io/)
     [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=0273B7)](https://supunlakmal.github.io/)
     [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)](https://supunlakmal.github.io/)
